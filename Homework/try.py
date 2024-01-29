@@ -1,4 +1,8 @@
 import random
 dlina = int(input('Введите длину пароля:'))
-lst = [random.randint(0,100) for i in range(dlina)]
-print(random.sample(lst, len(lst)))
+#def pas():
+#    lst = [random.randint(0,100) for i in range(dlina)]
+#    return lst
+#print(pas())
+l = random.sample()
+print(random.sample())
